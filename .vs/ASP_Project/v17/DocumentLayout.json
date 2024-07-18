@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|d:\\fpt course\\summer2024\\prn221\\project\\asp_project\\shopaccgame\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|solutionrelative:shopaccgame\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|d:\\fpt course\\summer2024\\prn221\\project\\asp_project\\shopaccgame\\pages\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|solutionrelative:shopaccgame\\pages\\carts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|d:\\fpt course\\summer2024\\prn221\\project\\asp_project\\shopaccgame\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|solutionrelative:shopaccgame\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|d:\\fpt course\\summer2024\\prn221\\project\\asp_project\\shopaccgame\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|solutionrelative:shopaccgame\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|d:\\fpt course\\summer2024\\prn221\\project\\asp_project\\shopaccgame\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|solutionrelative:shopaccgame\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|d:\\fpt course\\summer2024\\prn221\\project\\asp_project\\shopaccgame\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4FE8F8F3-5E45-4D35-8139-71FA75DCB3E7}|ShopAccGame\\ShopAccGame.csproj|solutionrelative:shopaccgame\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\Pages\\Carts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopAccGame\\Pages\\Carts\\Index.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\Pages\\Carts\\Index.cshtml",
+              "RelativeToolTip": "ShopAccGame\\Pages\\Carts\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T16:42:06.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ShopAccGame\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ShopAccGame\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-17T16:29:13.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopAccGame\\Pages\\Products\\Index.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "ShopAccGame\\Pages\\Products\\Index.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJwAAAC2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T16:25:02.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "ShopAccGame\\wwwroot\\js\\main.js",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "ShopAccGame\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAqwK8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-17T15:48:32.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopAccGame\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ShopAccGame\\Pages\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T15:43:02.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopAccGame\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT Course\\Summer2024\\PRN221\\Project\\ASP_Project\\ShopAccGame\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopAccGame\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T15:34:14.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1205,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1205,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:54:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
